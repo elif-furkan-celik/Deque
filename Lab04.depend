@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1607890685 source:c:\users\fufu\desktop\lab04\main.cpp
+	<stdio.h>
+	<iostream>
+	"Deque.h"
+
+1607880192 c:\users\fufu\desktop\lab04\deque.h
+	<stdio.h>
+
+1607891538 source:c:\users\fufu\desktop\lab04\deque.cpp
+	"Deque.h"
+
